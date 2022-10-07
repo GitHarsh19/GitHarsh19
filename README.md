@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitHarsh19
 - 👀 I’m interested in Learning C++ And Java.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me harshitagarwalsmt@gmail.com
 
 <!---
