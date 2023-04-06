@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshit agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit agarwal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshitagarwalss3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshitagarwalsmt" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/harshitagarwalss3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshitagarwalss3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harsh_1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_1610" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshitagarwalsmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitagarwalsmt" height="30" width="40" /></a>
 </p>
