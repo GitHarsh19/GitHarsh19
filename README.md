@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githarsh19" alt="githarsh19" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on s **ReactJS Based Project**
+- 👯 I’m looking to collaborate on s **Rails Based Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GitHarsh19](https://github.com/GitHarsh19)
 
