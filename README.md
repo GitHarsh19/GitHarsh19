@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githarsh19" alt="githarsh19" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb-Clone**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **Tableau**
 
-- 👯 I’m looking to collaborate on **Ruby On Rails Projects**
+- 👯 I’m looking to collaborate on **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GitHarsh19](https://github.com/GitHarsh19)
 
-- 💬 Ask me about **Ruby, Rails, Gems in Rails, Coding Questions**
+- 💬 Ask me about **Ruby, Rails,Data Analysis, Coding Questions**
 
 - 📫 How to reach me **harshitagarwalsmt@gmail.com**
 
