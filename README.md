@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GitHarsh19](https://github.com/GitHarsh19)
 
-- 💬 Ask me about **Ruby, Rails,Data Analysis, Coding Questions**
+- 💬 Ask me about **Machine Learning, Rails,Data Analysis, Coding Questions**
 
 - 📫 How to reach me **harshitagarwalsmt@gmail.com**
 
