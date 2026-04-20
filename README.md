@@ -48,7 +48,6 @@ I'm a **full stack developer transitioning into Product Management**, with hands
 Built with **Next.js · TypeScript · Supabase · Tailwind CSS**
 
 [![Live](https://img.shields.io/badge/Live-pitpass.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pitpass.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitHarsh19)
 
 ---
 
