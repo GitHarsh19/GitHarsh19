@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Agarwal</h1>
-<h3 align="center">Aspiring Product Manager | Full Stack Developer | Data Enthusiast from India</h3>
+<h3 align="center">Aspiring Product Manager | Developer | Data Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githarsh19&label=Profile%20views&color=0e75b6&style=flat" alt="githarsh19" /> </p>
 
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I'm a **full stack developer transitioning into Product Management**, with hands-on experience building products using Next.js, Supabase, and Vercel. I'm passionate about bridging the gap between engineering and business — translating user needs into actionable product specs, and data insights into strategy.
+I'm an **aspiring Product Manager** with hands-on experience building products using Next.js, Supabase, and Vercel. With a background in software development and an internship at an early-stage startup, I'm passionate about understanding user problems and turning them into impactful product decisions.
 
 ---
 
@@ -50,7 +50,6 @@ I'm a **full stack developer transitioning into Product Management**, with hands
 Built with **Next.js · TypeScript · Supabase · Tailwind CSS**
 
 [![Live](https://img.shields.io/badge/Live-pitpass.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pitpass.vercel.app/)
-
 ---
 
 ### 🧰 Languages and Tools
